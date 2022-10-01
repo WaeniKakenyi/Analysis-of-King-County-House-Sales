@@ -51,12 +51,27 @@ The method employed was as follows:
     - The models were used to answer the problem statement
     - A recommendation was made    
 ## Modelling
-The price distribution was ![Price distribution](images/price%20density%20distribution.png)
+The price distribution was 
+
+![Price distribution](images/price%20density%20distribution.png)
+
 It is seen that the price is skewed
-The correlation between different features was ![correlation](images/price%20heatmap%20correlation.png)
-The features highlighted are ![continuous variables](images/price%20vs%20sqft_living.png) 
-The model distribution of variables was ![linear dist](images/model3%20partial%20regression%20plot.png) 
-The homoscedasticity check was ![image](images/Model%20three%20Homoscedasticity%20check.png)
+The correlation between different features was 
+
+![correlation](images/price%20heatmap%20correlation.png)
+
+The features highlighted are 
+
+![continuous variables](images/price%20vs%20sqft_living.png) 
+
+The model distribution of variables was 
+
+![linear dist](images/model3%20partial%20regression%20plot.png) 
+
+The homoscedasticity check was 
+
+![image](images/Model%20three%20Homoscedasticity%20check.png)
+
 It was seen that as grade and view were seen to affect the prices greatly
 ## Regression Results
 * The overall model explains about 65.4% of the variance in the prices. 
@@ -76,7 +91,7 @@ The model fits about 65% of the data and additional tests to check for normality
 Also, for future research, deployment of other models besides the regression would be best and the data needs to be analysed while zoning in on specific zipcodes so as to get more accurate and fine tuned results
 
 ## For more information
-See the full analysis in the [Jupyter Notebook](https://github.com/WaeniKakenyi/MAnalysis-of-King-County-House-Sales/blob/master/house_analysis.ipynb) or review this presentation.
+See the full analysis in the [Jupyter Notebook](https://github.com/WaeniKakenyi/Analysis-of-King-County-House-Sales/blob/master/house_analysis.ipynb) or review this presentation.
 
 For additional info, contact Medrine Waeni at [medrinewaeni@gmail.com](mailto:medrinewaeni@gmail.com)
 
